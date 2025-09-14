@@ -1,0 +1,14 @@
+[
+  {
+    "book_id": 101,
+    "title": "Introduction to AI",
+    "author": "Andrew Ng",
+    "is_available": true
+  },
+  {
+    "book_id": 102,
+    "title": "Machine Learning Basics",
+    "author": "Tom Mitchell",
+    "is_available": true
+  }
+]

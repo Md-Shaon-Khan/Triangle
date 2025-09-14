@@ -1,0 +1,8 @@
+[
+  {
+    "member_id": 1,
+    "name": "Alice",
+    "age": 22,
+    "has_borrowed": false
+  }
+]
