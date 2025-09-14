@@ -1,0 +1,14 @@
+[
+  {
+    "member_id": 1,
+    "name": "Alice",
+    "age": 22,
+    "has_borrowed": false
+  },
+  {
+    "member_id": 2,
+    "name": "Bob",
+    "age": 30,
+    "has_borrowed": true
+  }
+]

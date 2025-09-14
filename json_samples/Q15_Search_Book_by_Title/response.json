@@ -1,0 +1,8 @@
+[
+  {
+    "book_id": 101,
+    "title": "Introduction to AI",
+    "author": "Andrew Ng",
+    "is_available": true
+  }
+]
