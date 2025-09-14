@@ -1,1 +1,1 @@
-fetch('./data.json')
+fetch('./data.json');
